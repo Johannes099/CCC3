@@ -1,0 +1,11 @@
+solver
+solver2
+sols_large/
+*.log
+log_*.txt
+out_large_b*.txt
+sub*.txt
+p7*.txt
+out_ex.txt
+merged.txt
+script*.js
